@@ -1,0 +1,2 @@
+k,p,algorithm,fit_time_s,predict_time_s,predict_proba_time_s,accuracy,roc_auc
+9,2,kd_tree,0.5355205535888672,29.5589439868927,34.395782470703125,0.7246622816323643,0.7907601030296832
