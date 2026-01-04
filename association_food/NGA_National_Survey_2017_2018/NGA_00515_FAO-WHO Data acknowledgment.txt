@@ -1,0 +1,19 @@
+FAO-WHO Gift data acknowledgment
+NGA-00515
+
+The dataset you are going to download was shared through FAO/WHO GIFT by:
+Federal University of Agriculture, Abeokuta (FUA), Nigeria
+We thank them for their generous contribution
+By downloading these dataset you accept to:
+
+
+	comply with all applicable laws, including, without limitation, privacy laws, intellectual property laws, anti-spam laws;
+	not publicly represent or imply that FAO is participating in, or has sponsored, approved or endorsed the manner or purpose of your use of the database;
+	provide the following acknowledgment to the contributor whenever publishing or presenting publicly this data or its derivatives: &nbsp;
+
+
+Federal University of Agriculture, Abeokuta (FUA); Nigeria; 2017-18; Food consumption and nutritional status of health workers in Ogun State, Nigeria, 2017-18
+Or shortly:
+Nigeria; FUA; 2017-18
+&nbsp;
+
